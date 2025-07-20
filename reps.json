@@ -1,0 +1,13 @@
+
+[
+    {
+        "name": "Alice",
+        "home_base": "123 Main St, Minneapolis, MN",
+        "max_leads": 8
+    },
+    {
+        "name": "Bob",
+        "home_base": "456 Oak Ave, St Paul, MN",
+        "max_leads": 10
+    }
+]

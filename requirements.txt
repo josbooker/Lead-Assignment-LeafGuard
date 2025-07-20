@@ -1,0 +1,9 @@
+
+streamlit
+pandas
+googlemaps
+pydeck
+openpyxl
+altair
+sqlite-utils
+python-dotenv
